@@ -99,7 +99,6 @@ class Game:
         )
         print(self.prizes)
 
-
     def display_with_transition(self, text, delay=0.1):
         for char in text:
             print(char, end='', flush=True)
