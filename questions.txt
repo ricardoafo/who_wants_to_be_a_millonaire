@@ -1,7 +1,7 @@
 What was the name of the Spanish waiter in the TV sitcom "Fawlty Towers"?
 Manuel,Pedro,Alfonso,Javier
 Manuel
-In the TV sitcom "Fawlty Towers," the name of the Spanish waiter is Manuel
+In the TV sitcom "Fawlty Towers" the name of the Spanish waiter is Manuel
 What sort of animal is Walt Disney's Dumbo?
 Deer,Rabbit,Elephant,Donkey
 Elephant
@@ -10,3 +10,19 @@ Which battles took place between the Royal Houses of York and Lancaster?
 Thirty Years War,Hundred Years War,Wars of the Roses,English Civil War
 Wars of the Roses
 The correct answer is Wars of the Roses. The Wars of the Roses were a series of civil wars fought between the rival royal houses of York and Lancaster in England during the 15th century. The conflict was primarily a power struggle for the English throne, with both houses claiming a legitimate right to rule. The wars ultimately ended with the victory of the Lancastrians and the establishment of the Tudor dynasty under Henry VII
+Which former Beatle narrated the TV adventures of Thomas the Tank Engine?
+John Lennon,Paul McCartney,George Harrison,Ringo Starr
+Ringo Starr
+Ringo Starr narrated the TV adventures of Thomas the Tank Engine. Ringo Starr, a former member of The Beatles, lent his voice to the popular children's show, bringing life to the beloved characters and captivating young audiences with his storytelling. His distinctive voice and charm made him the perfect choice for narrating the adventures of Thomas and his friends
+Queen Anne was the daughter of which English Monarch?
+James II,Henry VIII,Victoria,William I
+James II
+Queen Anne was the daughter of James II
+Who composed "Rhapsody in Blue"?
+Irving Berlin,George Gershwin,Aaron Copland,Cole Porter
+George Gershwin
+George Gershwin composed "Rhapsody in Blue." Gershwin was an American composer and pianist known for his fusion of classical music and jazz. "Rhapsody in Blue" is one of his most famous compositions, blending elements of jazz and classical music to create a unique and innovative sound. Gershwin's ability to seamlessly combine these genres made him a significant figure in American music and contributed to the development of the "American sound" in the early 20th century
+What is the Celsius equivalent of 77 degrees Fahrenheit?
+15,20,25,30
+25
+To convert Fahrenheit to Celsius, we can use the formula: Celsius = (Fahrenheit - 32) * 5/9. Plugging in the given Fahrenheit value of 77 into the formula, we get (77 - 32) * 5/9 = 45 * 5/9 = 225/9 = 25. Therefore, the Celsius equivalent of 77 degrees Fahrenheit is 25

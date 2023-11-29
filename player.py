@@ -1,3 +1,7 @@
 class Player:
-    def __init__(self, name_of_player):
-        self.name_of_player = name_of_player
+
+    player_name = ''
+
+    def __init__(self, player_name):
+        
+        self.player_name = player_name
