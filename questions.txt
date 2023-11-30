@@ -26,3 +26,63 @@ What is the Celsius equivalent of 77 degrees Fahrenheit?
 15,20,25,30
 25
 To convert Fahrenheit to Celsius, we can use the formula: Celsius = (Fahrenheit - 32) * 5/9. Plugging in the given Fahrenheit value of 77 into the formula, we get (77 - 32) * 5/9 = 45 * 5/9 = 225/9 = 25. Therefore, the Celsius equivalent of 77 degrees Fahrenheit is 25
+What is the capital city of Australia?
+Auckland,Sydney,Melbourne,Canberra
+Canberra
+Canberra is the capital of Australia, located in the Australian Capital Territory
+Who wrote the play "Romeo and Juliet"?
+Charles Dickens,William Shakespeare,Jane Austen,Mark Twain
+William Shakespeare
+"Romeo and Juliet" was written by William Shakespeare, one of the most famous playwrights in history
+Which planet is known as the "Red Planet"?
+Venus,Mars,Jupiter,Saturn
+Mars
+Mars is known as the "Red Planet" due to its distinctive color
+In what year did the United States declare its independence?
+1756,1776,1801,1820
+1776
+The United States declared its independence in the year 1776
+Who painted the famous artwork "Starry Night"?
+Vincent van Gogh,Pablo Picasso,Leonardo da Vinci,Claude Monet
+Vincent van Gogh
+"Starry Night" is a masterpiece painted by Vincent van Gogh
+What is the currency of Japan?
+Yen,Dollar,Euro,Pound
+Yen
+The currency of Japan is the yen
+Which ocean is the largest on Earth?
+Atlantic,Indian,Arctic,Pacific
+Pacific
+The Pacific Ocean is the largest and deepest ocean on Earth
+Who is known as the "Father of Modern Physics"?
+Isaac Newton,Galileo Galilei,Albert Einstein,Nikola Tesla
+Albert Einstein
+Albert Einstein is often referred to as the "Father of Modern Physics"
+What is the official language of Brazil?
+Spanish,Portuguese,French,Italian
+Portuguese
+The official language of Brazil is Portuguese
+In what year did the Berlin Wall fall?
+1985,1989,1991,1995
+1989
+The Berlin Wall fell in the year 1989, marking the end of the Cold War era
+Who wrote the novel "1984"?
+George Orwell,Aldous Huxley,Ray Bradbury,Arthur C. Clarke
+George Orwell
+"1984" was written by George Orwell, depicting a dystopian future
+What is the largest mammal in the world?
+Elephant,Blue Whale,Giraffe,Lion
+Blue Whale
+The Blue Whale is the largest mammal on Earth
+Which river is the longest in the world?
+Nile,Amazon,Mississippi,Ganges
+Amazon
+The Amazon River is the longest river in the world, flowing through South America
+Who is known as the "Queen of Pop"?
+Beyoncé,Madonna,Taylor Swift,Adele
+Madonna
+Madonna is often referred to as the "Queen of Pop" for her influence on the music industry
+What is the chemical symbol for gold?
+G,Ag,Au,Fe
+Au
+The chemical symbol for gold is Au

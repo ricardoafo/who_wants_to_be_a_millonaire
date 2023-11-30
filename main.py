@@ -1,5 +1,3 @@
 import game
 
-game = game.Game
-
-game = game()
+game = game.Game()

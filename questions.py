@@ -6,14 +6,12 @@ class Questions:
     used_questions = []
 
     def __init__(self, file_path):
-
         self.questions = self.read_questions_from_file(file_path)
 
     def read_questions_from_file(self, file_path):
-        
         list_questions = []
        
-        with open(file_path) as file:
+        with open(file_path, 'r', encoding='utf-8') as file:
             lines = file.readlines()
             for line in lines:
                 list_questions.append(line.strip("\n"))
@@ -21,7 +19,6 @@ class Questions:
         questions = {}
         question_count = 1
         for i in range(0, len(list_questions), 4):
-
             question = list_questions[i]
             options = list_questions[i + 1].split(',')
             answer = list_questions[i + 2]
@@ -37,8 +34,7 @@ class Questions:
 
         return questions
     
-    def throw_random_question(self):
-        
+    def throw_random_question(self):     
         unused_questions = [question for question in self.questions.keys() if question not in self.used_questions]
 
         random_question = random.choice(unused_questions)
