@@ -19,6 +19,7 @@ class Game:
         language = input().upper()
         while(language != 'A' and language != 'B'):
             self.display_with_transition('Invalid option | Opcion invalida\nPlease enter A or B | Porfavor ingresa A o B')
+            language = input().upper()
         self.language = language
         self.clear_console()
         # Run game with selected language
