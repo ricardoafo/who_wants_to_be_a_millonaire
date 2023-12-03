@@ -4,6 +4,7 @@ import sys
 import time
 import questions
 import player
+
 class Language:
 
     # Create variables to use in the game from other classes
