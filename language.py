@@ -61,7 +61,7 @@ class Language:
 """, 0.001)
 
             # Ask for the player name
-            self.display_with_transition('''Welcome to who wanna be a millonarie!!\nWhat\'s your name?''')
+            self.display_with_transition('''Welcome to who wanna be a millionarie!!\nWhat\'s your name?''')
             player_name = input()
             self.player.player_name = player_name
             self.clear_console()
@@ -216,9 +216,9 @@ La respuesta correcta era "{question['explanation']}"\nBuena suerte para la prox
                     return 'restart'
                 else:
                     self.display_with_transition("""
-░▀█▀░█░█░█▀█░█▀█░█░█░█▀▀░░░█▀▀░█▀█░█▀▄░░░█▀█░█░░░█▀█░█░█░▀█▀░█▀█░█▀▀░█░█
-░░█░░█▀█░█▀█░█░█░█▀▄░▀▀█░░░█▀▀░█░█░█▀▄░░░█▀▀░█░░░█▀█░░█░░░█░░█░█░█░█░▀░▀
-░░▀░░▀░▀░▀░▀░▀░▀░▀░▀░▀▀▀░░░▀░░░▀▀▀░▀░▀░░░▀░░░▀▀▀░▀░▀░░▀░░▀▀▀░▀░▀░▀▀▀░▀░▀
+░█▀▀░█▀▄░█▀█░█▀▀░▀█▀░█▀█░█▀▀░░░█▀█░█▀█░█▀▄░░░▀▀█░█░█░█▀▀░█▀█░█▀▄░█░█░█
+░█░█░█▀▄░█▀█░█░░░░█░░█▀█░▀▀█░░░█▀▀░█░█░█▀▄░░░░░█░█░█░█░█░█▀█░█▀▄░▀░▀░▀
+░▀▀▀░▀░▀░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░░░▀░░░▀▀▀░▀░▀░░░▀▀░░▀▀▀░▀▀▀░▀░▀░▀░▀░▀░▀░▀
 """)
                     self.sleep()
                     sys.exit()
